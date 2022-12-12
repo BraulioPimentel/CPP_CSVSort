@@ -1,0 +1,3 @@
+﻿  PowerBallSelectionSort.cpp
+E:\GitHub\Random NOT REPO\PowerBallSelectionSort\PowerBallSelectionSort.cpp(13,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PowerBallSelectionSort.vcxproj -> E:\GitHub\Random NOT REPO\PowerBallSelectionSort\x64\Debug\PowerBallSelectionSort.exe
